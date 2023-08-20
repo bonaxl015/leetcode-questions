@@ -25,3 +25,4 @@ const maxProfit = stocks => {
 
 const test1 = maxProfit([7, 1, 5, 3, 6, 4])
 console.log(test1) // 5 because stocks[4] - stocks[1] = 6 - 1 = 5
+// test
